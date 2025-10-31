@@ -1,0 +1,234 @@
+{
+  "entries": [
+    {
+      "id": "cutscene_opening_01",
+      "type": 0,
+      "title": "LA FORESTA",
+      "text": "Elarion. Un tempo chiamata la Foresta Eterna. Custodita dagli Eldarion, guardiani nati dalle radici stesse dell'albero primordiale. Durante la Grande Guerra, il sangue di mille battaglie si infiltrò nella terra. Il Cuore della Foresta si corruppe. Gli Eldarion, fedeli fino all'ultimo respiro, caddero uno dopo l'altro... trasformati in qualcosa di oscuro. Ora un viandante senza nome varca la soglia. Le radici fremono. Il canto della foresta è diventato un lamento.",
+      "biome": 0,
+      "bossId": "",
+      "displayDuration": 12.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_forest_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Qui le radici cantavano vita, e non sete di sangue.",
+      "biome": 0,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_roots_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Le radici conoscono ogni segreto… ascoltale, se osi.",
+      "biome": 1,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_flames_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Il fuoco era rinascita, ora divora.",
+      "biome": 2,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_shadows_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Quando il cielo si oscurò, le stelle piangevano lacrime di luce.",
+      "biome": 3,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_sanctuary_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Il re tentò di salvare, e nel salvarla la condannò.",
+      "biome": 4,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "inscr_heart_01",
+      "type": 1,
+      "title": "ISCRIZIONE ANTICA",
+      "text": "Qui tutto ebbe inizio. Qui tutto finirà.",
+      "biome": 5,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_tharion",
+      "type": 2,
+      "title": "THARION, RADICE CORROTTA",
+      "text": "Le radici mi hanno nutrito… ora ti spezzeranno come ramo secco.",
+      "biome": 0,
+      "bossId": "tharion",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_selindra",
+      "type": 2,
+      "title": "SELINDRA, CANTO DEL VENTO OSCURO",
+      "text": "Cantavo per i venti… ora il mio canto è morte.",
+      "biome": 1,
+      "bossId": "selindra",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_kaelor",
+      "type": 2,
+      "title": "KAELOR, FIAMMA CORROTTA",
+      "text": "Il fuoco era vita… ora brucia disperazione!",
+      "biome": 2,
+      "bossId": "kaelor",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_myrion",
+      "type": 2,
+      "title": "MYRION, CUSTODE DELLE OMBRE",
+      "text": "Ho vegliato sulle stelle… ora veglio sul tuo destino.",
+      "biome": 3,
+      "bossId": "myrion",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_aelthar",
+      "type": 2,
+      "title": "AELTHAR, RE DEI RAMI SPEZZATI",
+      "text": "Ero re e custode… ora sono sovrano di cenere.",
+      "biome": 4,
+      "bossId": "aelthar",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "boss_intro_eryndor",
+      "type": 2,
+      "title": "ERYNDOR, CUORE OSCURO",
+      "text": "Io ero il primo guardiano… ora sono il Cuore stesso.",
+      "biome": 5,
+      "bossId": "eryndor",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "hero_thought_entrance",
+      "type": 3,
+      "title": "",
+      "text": "…Non un canto, ma un respiro malato accoglie i miei passi.",
+      "biome": 0,
+      "bossId": "",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "hero_thought_after_selindra",
+      "type": 3,
+      "title": "",
+      "text": "…Ho visto nei suoi occhi memorie di pace, non solo di odio.",
+      "biome": 1,
+      "bossId": "selindra",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "hero_thought_after_kaelor",
+      "type": 3,
+      "title": "",
+      "text": "…Se persino il fuoco è corrotto, cosa resta da salvare?",
+      "biome": 2,
+      "bossId": "kaelor",
+      "displayDuration": 4.0,
+      "canSkip": true
+    },
+    {
+      "id": "hero_thought_final_purify",
+      "type": 3,
+      "title": "",
+      "text": "…Che questo dolore si dissolva… e la vita torni a cantare.",
+      "biome": 5,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "hero_thought_final_destroy",
+      "type": 3,
+      "title": "",
+      "text": "…Meglio il nulla… che un'eternità di corruzione.",
+      "biome": 5,
+      "bossId": "",
+      "displayDuration": 5.0,
+      "canSkip": true
+    },
+    {
+      "id": "interlude_selindra",
+      "type": 4,
+      "title": "FRAMMENTO DI VERITÀ",
+      "text": "Selindra era un canto corrotto. Le foglie ricordano la sua grazia perduta. Il vento porta ancora echi del suo lamento.",
+      "biome": 1,
+      "bossId": "selindra",
+      "displayDuration": 6.0,
+      "canSkip": true
+    },
+    {
+      "id": "interlude_kaelor",
+      "type": 4,
+      "title": "FRAMMENTO DI VERITÀ",
+      "text": "Kaelor proteggeva il fuoco sacro della rinascita. Ora le sue fiamme verdi bruciano solo disperazione.",
+      "biome": 2,
+      "bossId": "kaelor",
+      "displayDuration": 6.0,
+      "canSkip": true
+    },
+    {
+      "id": "interlude_myrion",
+      "type": 4,
+      "title": "FRAMMENTO DI VERITÀ",
+      "text": "Myrion vegliava sulle stelle della notte. La corruzione gli ha rubato la luce, lasciandogli solo ombre.",
+      "biome": 3,
+      "bossId": "myrion",
+      "displayDuration": 6.0,
+      "canSkip": true
+    },
+    {
+      "id": "final_purify",
+      "type": 5,
+      "title": "PURIFICAZIONE",
+      "text": "La luce filtra attraverso le fronde. Le radici tremano, poi si calmano. Il Cuore della Foresta batte di nuovo. Lento. Fievole. Ma vivo. La foresta respira di nuovo… e il canto riprende.",
+      "biome": 5,
+      "bossId": "",
+      "displayDuration": 10.0,
+      "canSkip": false
+    },
+    {
+      "id": "final_destroy",
+      "type": 5,
+      "title": "DISTRUZIONE",
+      "text": "Il Cuore si frantuma. Un grido silenzioso attraversa le radici. Gli alberi si piegano. Le ombre si dissolvono. La foresta cade in silenzio… eterno. Non più sofferenza. Non più corruzione. Solo il vuoto.",
+      "biome": 5,
+      "bossId": "",
+      "displayDuration": 10.0,
+      "canSkip": false
+    }
+  ]
+}
